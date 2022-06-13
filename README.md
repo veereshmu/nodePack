@@ -8,7 +8,6 @@ Get perfect shadows every time for the non-designer
 `npm i nodePack --save`
 
 Then...
-
 ...
 import { nodePack } from 'nodePack';
 

@@ -9,9 +9,9 @@ Get perfect shadows every time for the non-designer.
 Then...
 
 ```
-import { shadowizard } from 'shadowizardy';
+import { nodePack } from 'nodepacky';
 
-shadowizard({
+nodePack({
     shadow_type: 'soft',
     padding: false
 });

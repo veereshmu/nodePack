@@ -1,0 +1,22 @@
+{
+  "name": "nodepacky",
+  "version": "1.0.0",
+  "description": "testing uploading packages to NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veeresh-alt/nodePack.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "kali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veeresh-alt/nodePack/issues"
+  },
+  "homepage": "https://github.com/Veeresh-alt/nodePack#readme"
+}
